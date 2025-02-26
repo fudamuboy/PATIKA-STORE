@@ -22,6 +22,6 @@ Bu React Native bileşeni, bir e-ticaret mağazası uygulaması için temel bir 
         FlatList bileşeni, ürünleri 2 sütunlu bir ızgarada görüntüler, bu da öğelerin temiz ve verimli bir şekilde gösterilmesini sağlar.
         Bu yapı, bir e-ticaret uygulamasının ürün görüntüleme ekranının temelini oluşturur.
 
-﻿# Ekran Gorunutu
+Ekran Görüntüleri 📱
  ![Image](https://github.com/user-attachments/assets/ced67e84-1039-4d83-9f14-ad6feef4d097)
         
